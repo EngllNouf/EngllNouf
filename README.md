@@ -1,6 +1,5 @@
 - 👋 Hi, I'm @EngllNouf.
 - 👀 I'm interested in web development.
-- 🌱 I'm currently learning front-end web development.
 - 📫 You can find me on Twitter: @naz_nouf and LinkedIn: Nouf Mohammed. 
 
 <!---
