@@ -35,11 +35,10 @@
 ---
 
 ### 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nouf-mohammed)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/naz_nouf)
+[![LinkedIn](https://www.linkedin.com/in/nouf-aljedaani-14ba9a284?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B74eJAdPwQES17XR93E1xGQ%3D%3D)
 
 ---
 
 ### 💡 Fun Fact:
-✨ "I believe in creating solutions that matter and continuously learning to improve my skills!"
+✨ I believe in creating solutions that matter and continuously learning to improve my skills!
 
