@@ -5,7 +5,7 @@
 - 🎓 A passionate **Software Engineer** with a strong interest in **web development**.
 - 🌟 Currently exploring **modern web technologies** and **building impactful projects**.
 - 🌍 Based in **Jeddah, KSA**.
-- 📫 Connect with me on Twitter: [@naz_nouf](https://twitter.com/naz_nouf) or LinkedIn: [Nouf Mohammed](https://linkedin.com/in/nouf-mohammed).
+- 📫 Connect with me on Twitter: [@naz_nouf](https://twitter.com/naz_nouf) or LinkedIn: [Nouf Mohammed](https://www.linkedin.com/in/nouf-aljedaani-14ba9a284?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B74eJAdPwQES17XR93E1xGQ%3D%3D).
 
 ---
 
