@@ -43,6 +43,3 @@
 ### 💡 Fun Fact:
 ✨ "I believe in creating solutions that matter and continuously learning to improve my skills!"
 
----
-
-هل تريد إضافة أي شيء آخر أو تخصيص النصوص أكثر؟ 😊
