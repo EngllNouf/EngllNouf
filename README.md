@@ -32,10 +32,7 @@
 ### 🔥 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EngllNouf&layout=compact&theme=radical)
 
----
 
-### 🌐 Connect With Me:
-[![LinkedIn](https://www.linkedin.com/in/nouf-aljedaani-14ba9a284?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B74eJAdPwQES17XR93E1xGQ%3D%3D)
 
 ---
 
