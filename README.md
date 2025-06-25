@@ -20,7 +20,7 @@
 ---
 
 ### 📊 GitHub Stats:
-![Nouf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EngllNouf&show_icons=true&theme=radical)
+![Nouf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EngllNouf&show_icons=true&include_all_commits=true&theme=radical)
 
 ---
 
@@ -32,10 +32,9 @@
 ### 🔥 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EngllNouf&layout=compact&theme=radical)
 
-
-
 ---
 
 ### 💡 Fun Fact:
 ✨ I believe in creating solutions that matter and continuously learning to improve my skills!
+
 
