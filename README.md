@@ -22,18 +22,7 @@
 
 ---
 
-## 📊 GitHub Stats
-![Nouf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EngllNouf&show_icons=true&include_all_commits=true&theme=radical)
 
----
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=EngllNouf&theme=radical&margin-w=15&margin-h=15)
-
----
-
-## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EngllNouf&layout=compact&theme=radical)
 
 ---
 
