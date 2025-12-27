@@ -1,15 +1,18 @@
-# I'm Eng Nouf  Aljedaani
-💻 **Software Engineer | Web Developer | Front-End Enthusiast**  
-
-### 👩‍💻 About Me:
-- 🎓 A passionate **Software Engineer** with a strong interest in **web development**.
-- 🌟 Currently exploring **modern web technologies** and **building impactful projects**.
-- 🌍 Based in **Jeddah, KSA**.
-- 📫 Connect with me on LinkedIn: [Nouf Aljedaani](https://www.linkedin.com/in/nouf-aljedaani-14ba9a284?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B74eJAdPwQES17XR93E1xGQ%3D%3D).
+# 👩‍💻 Eng. Nouf Aljedaani  
+💻 **Software Engineer | Web Developer | Front-End Enthusiast**
 
 ---
 
-### 🛠️ Languages & Tools:
+## 🌟 About Me
+- 🎓 Passionate **Software Engineer** with a strong focus on **Web Development**  
+- 🚀 Exploring **modern web technologies** and building **real-world projects**  
+- 🌍 Based in **Jeddah, Saudi Arabia**  
+- 📫 Connect with me on LinkedIn:  
+  👉 [Nouf Aljedaani](https://www.linkedin.com/in/nouf-aljedaani-14ba9a284)
+
+---
+
+## 🛠️ Languages & Tools
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -19,22 +22,21 @@
 
 ---
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats
 ![Nouf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EngllNouf&show_icons=true&include_all_commits=true&theme=radical)
 
 ---
 
-### 🏆 GitHub Trophies:
+## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=EngllNouf&theme=radical&margin-w=15&margin-h=15)
 
 ---
 
-### 🔥 Most Used Languages:
+## 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EngllNouf&layout=compact&theme=radical)
 
 ---
 
-### 💡 Fun Fact:
-✨ I believe in creating solutions that matter and continuously learning to improve my skills!
-
+## 💡 Fun Fact
+✨ I believe in building meaningful solutions and continuously learning to improve my skills.
 
