@@ -14,21 +14,21 @@ Software Engineer passionate about building scalable web applications and seamle
 
 ## GitHub Stats
 
-![Nouf's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_border=true)
+![Nouf's GitHub stats](https://github-readme-stats.vercel.app/api?username=EngllNouf&show_icons=true&hide_title=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EngllNouf&layout=compact&hide_border=true)
 
 ---
 
 ## GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=EngllNouf&hide_border=true)
 
 ---
 
 ## GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&no-frame=true&margin-w=10)
+![trophy](https://github-profile-trophy.vercel.app/?username=EngllNouf&no-frame=true&margin-w=10)
 
 ---
 
