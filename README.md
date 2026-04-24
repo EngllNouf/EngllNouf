@@ -1,4 +1,3 @@
-
 # Hi there, I'm Nouf
 
 Software Engineer passionate about building scalable web applications and seamless system integrations.
@@ -10,6 +9,26 @@ Software Engineer passionate about building scalable web applications and seamle
 - Experienced in working with APIs, Data Mapping, and Business Logic  
 - Interested in building user-friendly, scalable, and efficient solutions  
 - Continuously learning and improving technical skills  
+
+---
+
+## GitHub Stats
+
+![Nouf's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+
+---
+
+## GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true)
+
+---
+
+## GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&no-frame=true&margin-w=10)
 
 ---
 
