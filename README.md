@@ -28,7 +28,7 @@ Software Engineer passionate about building scalable web applications and seamle
 
 ## GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=EngllNouf&no-frame=true&margin-w=10)
+![trophy](https://github-profile-trophy.vercel.app/?username=EngllNouf)
 
 ---
 
